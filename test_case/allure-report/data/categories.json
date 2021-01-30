@@ -1,0 +1,77 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 2.3 == 4",
+      "children" : [ {
+        "name" : "test_add[fail]",
+        "uid" : "190a2a6004b94f9a",
+        "parentUid" : "8fc17b839bd1ec5e68282b63083b48d3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1612010453431,
+          "stop" : 1612010453431,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "[0.3, 2, 4]" ]
+      } ],
+      "uid" : "8fc17b839bd1ec5e68282b63083b48d3"
+    }, {
+      "name" : "AssertionError: assert -1.7 == 4",
+      "children" : [ {
+        "name" : "test_sub[fail]",
+        "uid" : "a8c418ac26b2e4b",
+        "parentUid" : "97685d34452ccd7f3a434e65fda70060",
+        "status" : "failed",
+        "time" : {
+          "start" : 1612010453495,
+          "stop" : 1612010453495,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "[0.3, 2, 4]" ]
+      } ],
+      "uid" : "97685d34452ccd7f3a434e65fda70060"
+    }, {
+      "name" : "AssertionError: assert 0.6 == 4",
+      "children" : [ {
+        "name" : "test_mul[fail]",
+        "uid" : "513d32befef3f4ad",
+        "parentUid" : "e78c05d59bbd250544d1887789300999",
+        "status" : "failed",
+        "time" : {
+          "start" : 1612010453515,
+          "stop" : 1612010453515,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "[0.3, 2, 4]" ]
+      } ],
+      "uid" : "e78c05d59bbd250544d1887789300999"
+    }, {
+      "name" : "AssertionError: assert 0.15 == 4",
+      "children" : [ {
+        "name" : "test_div[fail]",
+        "uid" : "663a79d412d8062",
+        "parentUid" : "2c13c5c8d7aef95e2a97060b8b5a35b3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1612010453534,
+          "stop" : 1612010453535,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "[0.3, 2, 4]" ]
+      } ],
+      "uid" : "2c13c5c8d7aef95e2a97060b8b5a35b3"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
