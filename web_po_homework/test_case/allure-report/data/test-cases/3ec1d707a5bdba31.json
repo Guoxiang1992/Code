@@ -1,0 +1,68 @@
+{
+  "uid" : "3ec1d707a5bdba31",
+  "name" : "test_add[member3]",
+  "fullName" : "test_member_add.TestAdd#test_add",
+  "historyId" : "56578b1021e49992944e8e36c1e77ae7",
+  "time" : {
+    "start" : 1614414481537,
+    "stop" : 1614414505157,
+    "duration" : 23620
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试企业微信成员的添加及查询"
+  }, {
+    "name" : "story",
+    "value" : "测试成员添加"
+  }, {
+    "name" : "suite",
+    "value" : "test_member_add"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAdd"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-9CEEB5HA"
+  }, {
+    "name" : "thread",
+    "value" : "14784-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_member_add"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "Account",
+    "value" : "'A-23'"
+  }, {
+    "name" : "Name",
+    "value" : "'A-23'"
+  }, {
+    "name" : "Phone_number",
+    "value" : "'13012345693'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3ec1d707a5bdba31.json",
+  "parameterValues" : [ "'A-23'", "'A-23'", "'13012345693'" ]
+}

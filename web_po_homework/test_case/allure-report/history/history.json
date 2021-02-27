@@ -1,0 +1,78 @@
+{
+  "56578b1021e49992944e8e36c1e77ae7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3ec1d707a5bdba31",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614414481537,
+        "stop" : 1614414505157,
+        "duration" : 23620
+      }
+    } ]
+  },
+  "d2116e100c89e26847570f86c07e0f56" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c29ea2a9781461ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614414448478,
+        "stop" : 1614414470408,
+        "duration" : 21930
+      }
+    } ]
+  },
+  "ad1bfabdb8bdfb0251efe9e5c2e5367f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "27f0c26c7837a565",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614414471267,
+        "stop" : 1614414480628,
+        "duration" : 9361
+      }
+    } ]
+  },
+  "e2d42c6b5fd5ade4ba60e0631ff84ad8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5da5b6e1ff828836",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614414506007,
+        "stop" : 1614414512917,
+        "duration" : 6910
+      }
+    } ]
+  }
+}

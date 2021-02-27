@@ -1,0 +1,15 @@
+by1: xpath
+value1: '//*[@id="_hmt_click"]/div[1]/div[4]/div[2]/a[1]/div/span[1]'
+action1: click
+by2: id
+value2: 'username'
+action2: send_keys
+by3: id
+value3: memberAdd_acctid
+action3: send_keys
+by4: id
+value4: 'memberAdd_phone'
+action4: send_keys
+by5: xpath
+value5: '//*[@class="member_colRight_operationBar ww_operationBar"]/a[2]'
+action5: click
