@@ -1,0 +1,21 @@
+by1: xpath
+locator1: "//*[@text='通讯录']"
+action1: click
+by2: id
+locator2: "com.tencent.wework:id/ipb"
+action2: click
+by3: xpath
+locator3: "//*[@text='姓名　']/..//*[@resource-id='com.tencent.wework:id/b7m']"
+action3: send
+by4: xpath
+locator4: "//*[@text='帐号　']/..//*[@resource-id='com.tencent.wework:id/b7m']"
+action4: send
+by5: id
+locator5: "com.tencent.wework:id/fwi"
+action5: send
+by6: id
+locator6: "com.tencent.wework:id/aj_"
+action6: click
+by7: xpath
+locator7: '//*[@class="android.widget.Toast"]'
+action7: text
