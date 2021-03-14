@@ -1,0 +1,11 @@
+[ {
+  "uid" : "562c520d89101ffc",
+  "name" : "test_delete",
+  "time" : {
+    "start" : 1615706978244,
+    "stop" : 1615707016819,
+    "duration" : 38575
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

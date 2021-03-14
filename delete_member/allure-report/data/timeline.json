@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-9CEEB5HA",
+    "children" : [ {
+      "name" : "12252-MainThread",
+      "children" : [ {
+        "name" : "test_delete",
+        "uid" : "562c520d89101ffc",
+        "parentUid" : "2accc5234d2532b2911acbf553015928",
+        "status" : "passed",
+        "time" : {
+          "start" : 1615706978244,
+          "stop" : 1615707016819,
+          "duration" : 38575
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2accc5234d2532b2911acbf553015928"
+    } ],
+    "uid" : "c66405c184b5ea211d61556c99085d5f"
+  } ]
+}

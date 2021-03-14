@@ -1,0 +1,12 @@
+[32mINFO    [0m root:basepage.py:18 Find: by=id , locator = com.tencent.wework:id/apz
+[32mINFO    [0m root:basepage.py:18 Find: by=xpath , locator = //*[@text='通讯录']
+[31m[1mERROR   [0m root:black_list.py:19 捕获到异常弹框
+[32mINFO    [0m root:basepage.py:22 Finds: by=id , locator = com.tencent.wework:id/ig0
+[32mINFO    [0m root:basepage.py:18 Find: by=xpath , locator = //*[@text='通讯录']
+[32mINFO    [0m root:basepage.py:18 Find: by=id , locator = com.tencent.wework:id/igk
+[32mINFO    [0m root:basepage.py:18 Find: by=xpath , locator = //*[contains(@text,'搜索')]
+[32mINFO    [0m root:basepage.py:22 Finds: by=id , locator = com.tencent.wework:id/dtv
+[32mINFO    [0m root:basepage.py:18 Find: by=id , locator = com.tencent.wework:id/iga
+[32mINFO    [0m root:basepage.py:18 Find: by=id , locator = com.tencent.wework:id/bct
+[32mINFO    [0m root:basepage.py:18 Find: by=id , locator = com.tencent.wework:id/esd
+[32mINFO    [0m root:basepage.py:18 Find: by=id , locator = com.tencent.wework:id/bpc

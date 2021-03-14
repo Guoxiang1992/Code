@@ -1,0 +1,40 @@
+alert:
+  by: id
+  locator: "com.tencent.wework:id/apz"
+  action: click
+goto_maillist:
+  by: xpath
+  locator: "//*[@text='通讯录']"
+  action: click
+goto_search:
+  by: id
+  locator: "com.tencent.wework:id/igk"
+  action: click
+search_info:
+  by: xpath
+  locator: "//*[contains(@text,'搜索')]"
+  action: send
+  keys: ${name}
+delete_members:
+  by: id
+  locator: com.tencent.wework:id/dtv
+delete_selection:
+  by: id
+  locator: 'com.tencent.wework:id/iga'
+  action: click
+member_edit:
+  by: id
+  locator: 'com.tencent.wework:id/bct'
+  action: click
+member_delete:
+  by: id
+  locator: 'com.tencent.wework:id/esd'
+  action: click
+delete_confirm:
+  by: id
+  locator: 'com.tencent.wework:id/bpc'
+  action: click
+assert_result:
+  by: id
+  locator: 'com.tencent.wework:id/cgx'
+  action: text
